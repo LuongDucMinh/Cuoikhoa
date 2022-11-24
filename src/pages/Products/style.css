@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+  display: flex;
+}
+
+
+.products {
+    width: 900px;
+    height: 150px;
+    border: 1px solid rgba(0, 0, 0, 0.049);
+    padding: 20px;
+    border-radius: 10px;
+    font-family: sans-serif;
+    margin: 5px;
+    display: flex;
+  }
+  
+  .name {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .infomation {
+    font-size: 14px;
+    font-style: italic;
+  }
