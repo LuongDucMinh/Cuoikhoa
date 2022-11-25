@@ -6,10 +6,8 @@ function Header() {
   return (
     <div className="header">
       <ul>
-        <li className='li'>
-          <Link to="/"> HOME </Link>
-          <Link to="/products"> THỰC ĐƠN </Link>
-          <Link to="/welcome"> KHUYẾN MÃI</Link>
+        <li className='li'>        
+          <Link to="/"> THỰC ĐƠN </Link>  
         </li>
       </ul>
     </div>
